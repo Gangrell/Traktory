@@ -1,0 +1,16 @@
+D:\Projekty C#\Traktory\Traktory\bin\Debug\Traktory.exe.config
+D:\Projekty C#\Traktory\Traktory\bin\Debug\Traktory.exe
+D:\Projekty C#\Traktory\Traktory\bin\Debug\Traktory.pdb
+D:\Projekty C#\Traktory\Traktory\bin\Debug\MySql.Data.dll
+D:\Projekty C#\Traktory\Traktory\obj\Debug\Traktory.csprojResolveAssemblyReference.cache
+D:\Projekty C#\Traktory\Traktory\obj\Debug\Traktory.Form1.resources
+D:\Projekty C#\Traktory\Traktory\obj\Debug\Traktory.Properties.Resources.resources
+D:\Projekty C#\Traktory\Traktory\obj\Debug\Traktory.csproj.GenerateResource.Cache
+D:\Projekty C#\Traktory\Traktory\obj\Debug\Traktory.exe
+D:\Projekty C#\Traktory\Traktory\obj\Debug\Traktory.pdb
+D:\Projekty C#\Traktory\Traktory\bin\Debug\itextsharp.dll
+D:\Projekty C#\Traktory\Traktory\bin\Debug\itextsharp.pdfa.dll
+D:\Projekty C#\Traktory\Traktory\bin\Debug\itextsharp.xtra.dll
+D:\Projekty C#\Traktory\Traktory\bin\Debug\itextsharp.xml
+D:\Projekty C#\Traktory\Traktory\bin\Debug\Facebook.dll
+D:\Projekty C#\Traktory\Traktory\bin\Debug\Facebook.xml
