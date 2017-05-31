@@ -14,3 +14,9 @@ D:\Projekty C#\Traktory\Traktory\bin\Debug\itextsharp.xtra.dll
 D:\Projekty C#\Traktory\Traktory\bin\Debug\itextsharp.xml
 D:\Projekty C#\Traktory\Traktory\bin\Debug\Facebook.dll
 D:\Projekty C#\Traktory\Traktory\bin\Debug\Facebook.xml
+D:\Projekty C#\Traktory\Traktory\bin\Debug\nunit.framework.dll
+D:\Projekty C#\Traktory\Traktory\bin\Debug\nunit.framework.xml
+D:\Projekty C#\Traktory\Traktory\bin\Debug\Mono.Cecil.dll
+D:\Projekty C#\Traktory\Traktory\bin\Debug\nunit.engine.api.dll
+D:\Projekty C#\Traktory\Traktory\bin\Debug\nunit.engine.dll
+D:\Projekty C#\Traktory\Traktory\bin\Debug\NUnit3.TestAdapter.dll

@@ -138,5 +138,12 @@ namespace Traktory
         {
             Login();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            
+
+            MessageBox.Show(Autor.Instance.Tworca());
+        }
     }
 }
